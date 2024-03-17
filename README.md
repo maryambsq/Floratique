@@ -25,5 +25,3 @@ To run the website locally, simply download the HTML and CSS files provided in t
 ## Contributing
 Contributions to Floratique are welcome! If you'd like to contribute to the project, feel free to submit pull requests with your enhancements or fixes. Please ensure that any changes align with the project's goals and follow best practices.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
