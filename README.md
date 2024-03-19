@@ -23,5 +23,4 @@ This project, Floratique, is built using HTML and CSS. It offers a visually appe
 To run the website locally, simply download the HTML and CSS files provided in this repository. Open the HTML file in your preferred web browser to view the Floratique website. You can also deploy the website on a web server to make it accessible online.
 
 ## Contributing
-Contributions to Floratique are welcome! If you'd like to contribute to the project, feel free to submit pull requests with your enhancements or fixes. Please ensure that any changes align with the project's goals and follow best practices.
-
+Contributions to Floratique are welcome! If you'd like to contribute to the project, feel free to submit pull requests with your enhancements or fixes. 
