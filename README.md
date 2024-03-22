@@ -4,12 +4,19 @@ Floratique is a responsive boutique website designed for selling flowers. It pro
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Project Structure](#project-structure)
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
 This project, Floratique, is built using HTML and CSS. It offers a visually appealing and intuitive platform for customers to explore and purchase flowers conveniently. The website is designed to be responsive, ensuring a seamless experience across different devices.
+
+## Project Structure
+The project consists of HTML files for the website's structure and content, along with a CSS file for styling. Here's a brief overview of the project structure:
+- `index.html`: Main HTML file containing the structure of the website.
+- `style.css`: CSS file for styling the website's elements.
+- `img`: Directory containing image assets used in the website.
 
 ## Features
 - **Responsive Design**: Floratique adapts gracefully to different screen sizes, providing an optimal viewing experience for users on desktops, tablets, and smartphones.
