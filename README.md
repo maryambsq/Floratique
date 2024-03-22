@@ -1,6 +1,6 @@
 # Floratique
 
-Floratique is a responsive business website designed for selling flowers. It provides an elegant and user-friendly interface to showcase various floral arrangements and facilitate easy online shopping. 
+Floratique is a responsive boutique website designed for selling flowers. It provides an elegant and user-friendly interface to showcase various floral arrangements and facilitate easy online shopping. 
 
 ## Table of Contents
 - [Introduction](#introduction)
